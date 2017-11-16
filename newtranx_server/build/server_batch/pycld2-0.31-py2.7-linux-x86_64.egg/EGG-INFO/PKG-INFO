@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: pycld2
+Version: 0.31
+Summary: Python bindings around Google Chromium's embedded compact language detection library (CLD2)
+Home-page: https://github.com/aboSamoor/pycld2
+Author: Rami Al-Rfou
+Author-email: rmyeid@gmail.com
+License: Apache2
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Text Processing :: Linguistic

@@ -1,0 +1,5 @@
+('/home/revo/MARIAN_server/build/server_batch/pycld2-0.31-py2.7-linux-x86_64.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyo', '*.so', 'EGG-INFO']),
+ 'DATA',
+ [])

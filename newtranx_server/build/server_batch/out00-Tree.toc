@@ -1,0 +1,5 @@
+('/usr/local/lib/python2.7/dist-packages/polyglot-16.7.4-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyo', '*.so', 'EGG-INFO']),
+ 'DATA',
+ [])
